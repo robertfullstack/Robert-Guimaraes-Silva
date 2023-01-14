@@ -7,7 +7,7 @@
 <h3>Caminho Espelização Full Stack</h3>
 
 <div>
-  <img src = "https://imagem-github.netlify.app/Imagens/Desenvolvimento_2022.png" width="95%" height="700px"  alt="Imagem - Habilidades de um Programador Full Stack.">
+  <img src="https://image-github.netlify.app/Imagens/Desenvolvimento_2022.png" width="95%" height="700px"  alt="Imagem - Habilidades de um Programador Full Stack.">
   
 </div>  
 
